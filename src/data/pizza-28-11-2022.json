@@ -11,14 +11,14 @@
     "name": "Salami",
     "small_price": 5,
     "medium_price": 8,
-    "large_price": 12.
+    "large_price": 12
   },
   {
     "id": 3,
     "name": "Prosciutto",
     "small_price": 5,
     "medium_price": 8,
-    "large_price": 12.
+    "large_price": 12
   },
   {
     "id": 4,
@@ -39,7 +39,7 @@
     "name": "Hawai",
     "small_price": 6,
     "medium_price": 9,
-    "large_price": 14.
+    "large_price": 14
   },
   {
     "id": 7,
@@ -116,7 +116,7 @@
     "name": "Vegetaria",
     "small_price": 7,
     "medium_price": 10,
-    "large_price": 15.
+    "large_price": 15
   },
   {
     "id": 18,
@@ -137,7 +137,7 @@
     "name": "Mozarella",
     "small_price": 8,
     "medium_price": 10,
-    "large_price": 16.
+    "large_price": 16
   },
   {
     "id": 21,
@@ -172,7 +172,7 @@
     "name": "al Salmone",
     "small_price": 8.5,
     "medium_price": 10.5,
-    "large_price": 17.
+    "large_price": 17
   },
   {
     "id": 26,
@@ -200,6 +200,6 @@
     "name": "Pizzabrot",
     "small_price": 3,
     "medium_price": 5,
-    "large_price": 9.
+    "large_price": 9
   }
 ]
