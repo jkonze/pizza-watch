@@ -2,197 +2,197 @@
   {
     "id": 1,
     "name": "Margherita",
-    "small_price": "3,3",
-    "medium_price": "5,5",
+    "small_price": 3.3,
+    "medium_price": 5.5,
     "large_price": 8
   },
   {
     "id": 2,
     "name": "Salami",
-    "small_price": "3,8",
-    "medium_price": "6",
+    "small_price": 3.8,
+    "medium_price": 6,
     "large_price": 9
   },
   {
     "id": 3,
     "name": "Prosciutto",
-    "small_price": "3,8",
-    "medium_price": "6",
+    "small_price": 3.8,
+    "medium_price": 6,
     "large_price": 9
   },
   {
     "id": 4,
     "name": "Funghi",
-    "small_price": "4,3",
-    "medium_price": "6,5",
+    "small_price": 4.3,
+    "medium_price": 6.5,
     "large_price": 10
   },
   {
     "id": 5,
     "name": "Capri",
-    "small_price": "4,3",
-    "medium_price": "6,5",
+    "small_price": 4.3,
+    "medium_price": 6.5,
     "large_price": 10
   },
   {
     "id": 6,
     "name": "Hawai",
-    "small_price": "4,8",
-    "medium_price": "7",
+    "small_price": 4.8,
+    "medium_price": 7,
     "large_price": 11
   },
   {
     "id": 7,
     "name": "Tonno",
-    "small_price": "5,3",
-    "medium_price": "7",
+    "small_price": 5.3,
+    "medium_price": 7,
     "large_price": 12
   },
   {
     "id": 8,
     "name": "4 Stagioni",
-    "small_price": "5,3",
-    "medium_price": "7,5",
+    "small_price": 5.3,
+    "medium_price": 7.5,
     "large_price": 12
   },
   {
     "id": 9,
     "name": "4 Formaggi",
-    "small_price": "5,3",
-    "medium_price": "7,5",
+    "small_price": 5.3,
+    "medium_price": 7.5,
     "large_price": 12
   },
   {
     "id": 10,
     "name": "Rustica",
-    "small_price": "5,3",
-    "medium_price": "7,5",
+    "small_price": 5.3,
+    "medium_price": 7.5,
     "large_price": 12
   },
   {
     "id": 11,
     "name": "Deliziosa",
-    "small_price": "5,3",
-    "medium_price": "7,5",
+    "small_price": 5.3,
+    "medium_price": 7.5,
     "large_price": 12
   },
   {
     "id": 12,
     "name": "Italia",
-    "small_price": "5,3",
-    "medium_price": "7,5",
+    "small_price": 5.3,
+    "medium_price": 7.5,
     "large_price": 12
   },
   {
     "id": 13,
     "name": "Capricciosa",
-    "small_price": "5,3",
-    "medium_price": "7,5",
+    "small_price": 5.3,
+    "medium_price": 7.5,
     "large_price": 12
   },
   {
     "id": 14,
     "name": "Diavolo",
-    "small_price": "5,3",
-    "medium_price": "7,5",
+    "small_price": 5.3,
+    "medium_price": 7.5,
     "large_price": 12
   },
   {
     "id": 15,
     "name": "Calzone",
-    "small_price": "5,3",
-    "medium_price": "7,5",
+    "small_price": 5.3,
+    "medium_price": 7.5,
     "large_price": null
   },
   {
     "id": 16,
     "name": "Popeye",
-    "small_price": "5,3",
-    "medium_price": "7,5",
+    "small_price": 5.3,
+    "medium_price": 7.5,
     "large_price": 12
   },
   {
     "id": 17,
     "name": "Vegetaria",
-    "small_price": "5,8",
-    "medium_price": "8",
+    "small_price": 5.8,
+    "medium_price": 8,
     "large_price": 13
   },
   {
     "id": 18,
     "name": "Gamberetti",
-    "small_price": "6,3",
-    "medium_price": "8,5",
+    "small_price": 6.3,
+    "medium_price": 8.5,
     "large_price": 14
   },
   {
     "id": 19,
     "name": "Marinara",
-    "small_price": "6,3",
-    "medium_price": "8,5",
+    "small_price": 6.3,
+    "medium_price": 8.5,
     "large_price": 14
   },
   {
     "id": 20,
     "name": "Mozarella",
-    "small_price": "5,8",
-    "medium_price": "8",
+    "small_price": 5.8,
+    "medium_price": 8,
     "large_price": 13
   },
   {
     "id": 21,
     "name": "Parma",
-    "small_price": "6,3",
-    "medium_price": "8,5",
+    "small_price": 6.3,
+    "medium_price": 8.5,
     "large_price": 14
   },
   {
     "id": 22,
     "name": "Chef",
-    "small_price": "6,3",
-    "medium_price": "8,5",
+    "small_price": 6.3,
+    "medium_price": 8.5,
     "large_price": 14
   },
   {
     "id": 23,
     "name": "Mia",
-    "small_price": "6,3",
-    "medium_price": "8,5",
+    "small_price": 6.3,
+    "medium_price": 8.5,
     "large_price": 14
   },
   {
     "id": 24,
     "name": "Vesna",
-    "small_price": "6,3",
-    "medium_price": "8,5",
+    "small_price": 6.3,
+    "medium_price": 8.5,
     "large_price": 14
   },
   {
     "id": 25,
     "name": "al Salmone",
-    "small_price": "7,3",
-    "medium_price": "9,5",
+    "small_price": 7.3,
+    "medium_price": 9.5,
     "large_price": 16
   },
   {
     "id": 26,
     "name": "Mediterano",
-    "small_price": "6,3",
-    "medium_price": "8,5",
+    "small_price": 6.3,
+    "medium_price": 8.5,
     "large_price": 14
   },
   {
     "id": 27,
     "name": "Räucherlachs",
-    "small_price": "7,3",
-    "medium_price": "9,5",
+    "small_price": 7.3,
+    "medium_price": 9.5,
     "large_price": 16
   },
   {
     "id": 28,
     "name": "Zlatko",
-    "small_price": "7,3",
-    "medium_price": "9,5",
+    "small_price": 7.3,
+    "medium_price": 9.5,
     "large_price": 16
   }
 ]
